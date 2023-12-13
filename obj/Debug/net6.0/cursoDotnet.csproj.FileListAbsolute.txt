@@ -1,0 +1,15 @@
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/bin/Debug/net6.0/cursoDotnet
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/bin/Debug/net6.0/cursoDotnet.deps.json
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/bin/Debug/net6.0/cursoDotnet.runtimeconfig.json
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/bin/Debug/net6.0/cursoDotnet.dll
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/bin/Debug/net6.0/cursoDotnet.pdb
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.csproj.AssemblyReference.cache
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.AssemblyInfoInputs.cache
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.AssemblyInfo.cs
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.csproj.CoreCompileInputs.cache
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.dll
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/refint/cursoDotnet.dll
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.pdb
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/cursoDotnet.genruntimeconfig.cache
+/Users/joaoricardomartinsribeiro/Projetos/cursoDotnet/obj/Debug/net6.0/ref/cursoDotnet.dll
