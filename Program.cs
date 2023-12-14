@@ -2,15 +2,15 @@
 
 Calculadora calc = new Calculadora();
 
-calc.Somar(10, 30);
+//calc.Somar(10, 30);
 
-calc.Subtrair(15, 5);
+//calc.Subtrair(15, 5);
 
-calc.Multiplicar(25, 8);
+//calc.Multiplicar(25, 8);
 
-calc.Divisao(46, 12);
+//calc.Divisao(46, 12);
 
-
+calc.Potencia(3, 3);
 
 
 
