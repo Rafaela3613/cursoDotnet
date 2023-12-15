@@ -1,48 +1,18 @@
 ﻿using cursoDotnet.Models;
 
 
-string opcao;
-bool exibirMenu = true;
+int[] arrayInteiros = new int[3];
 
-while(exibirMenu)
+  
+  arrayInteiros[0]= 72;
+  arrayInteiros[1]= 64;
+  arrayInteiros[2]= 50;
+  //arrayInteiros[3]= 1;
+
+for(int contador = 0; contador < arrayInteiros.Length; contador++)
 {
-  Console.Clear();
-  Console.WriteLine("Digite a sua opcao:");
-  Console.WriteLine("1 - Cadastrar cliente");
-  Console.WriteLine("2 - Buscar cliente");
-  Console.WriteLine("3 - Apagar cliente");
-  Console.WriteLine("4 - Encerrar");
-
-  opcao = Console.ReadLine();
-
-  switch(opcao)
-  {
-      case "1":
-      Console.WriteLine("Cadastro de cliente");
-      break;
-
-      case "2":
-      Console.WriteLine("Busca de cliente");
-      break;
-
-      case "3":
-      Console.WriteLine("Apagar cliente");
-      break;
-
-      case "4":
-      Console.WriteLine("Encerrar");
-      exibirMenu = false;
-      //Environment.Exit(0);
-      break;
-
-    default:
-    Console.WriteLine("Opcao invalida");
-    break;
-  }
+  Console.WriteLine($"Posicao N {contador} - {arrayInteiros[contador]}");
 }
-Console.WriteLine("O programa se encerrou");
-
-
 
 
 
