@@ -5,9 +5,12 @@ int numero = 5;
 int contador = 0;
 
 while (contador <= 10){
-          Console.WriteLine($" {contador + 1}° Execucao : {numero} x {contador} = {numero * contador}");
+          Console.WriteLine($" {contador}° Execucao : {numero} x {contador} = {numero * contador}");
         contador++;
-        
+
+        if(contador == 6){
+        break;
+        }
 }
 
 
