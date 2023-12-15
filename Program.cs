@@ -1,18 +1,44 @@
 ﻿using cursoDotnet.Models;
 
 
-int soma = 0, numero = 0;
+string opcao;
 
-do
+while(true)
 {
-    Console.WriteLine("Digite um numero (0 para parar)");
+  Console.Clear();
+  Console.WriteLine("Digite a sua opcao:");
+  Console.WriteLine("1 - Cadastrar cliente");
+  Console.WriteLine("2 - Buscar cliente");
+  Console.WriteLine("3 - Apagar cliente");
+  Console.WriteLine("4 - Encerrar");
 
-    numero = Convert.ToInt32 (Console.ReadLine());
+  opcao = Console.ReadLine();
 
-    soma += numero;
+  switch(opcao)
+  {
+      case "1":
+      Console.WriteLine("Cadastro de cliente");
+      break;
 
-} while(numero != 0);
-Console.WriteLine($"Total da soma dos numeros digitados é: {soma}");
+      case "2":
+      Console.WriteLine("Busca de cliente");
+      break;
+
+      case "3":
+      Console.WriteLine("Apagar cliente");
+      break;
+
+      case "4":
+      Console.WriteLine("Encerrar");
+      Environment.Exit(0);
+      break;
+
+    default:
+    Console.WriteLine("Opcao invalida");
+    break;
+  }
+}
+
 
 
 
